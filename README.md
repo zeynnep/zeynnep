@@ -2,6 +2,8 @@
 
 # 💫 About Me:
 Merhaba ben Zeynep Front-end geliştiricisiyim.Bu alanda eğitimler alıp ilerliyorum.Bu süreçte öğrendiklerimi ve çalışmalarımı sizlerle paylaşıyorum.
+
+
 ![image](https://github.com/zeynnep/zeynnep/assets/125817782/3e742bf9-e435-472c-a0db-97438f445f16)
 
 
