@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![image](https://github.com/zeynnep/zeynnep/assets/125817782/8043051d-387d-4b2a-aa65-153798ba7db5)
+
+
 # 💫 About Me:
 + Hello, I'm Zeynep Front-end developer. I am also interested in data analysis.
 I am progressing through education in this field. I share with you what I learned in this process.
