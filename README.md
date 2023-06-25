@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![image](https://github.com/zeynnep/zeynnep/assets/125817782/8043051d-387d-4b2a-aa65-153798ba7db5)
+
 
 
 # 💫 About Me:
@@ -8,7 +8,7 @@
 I am progressing through education in this field. I share with you what I learned in this process.
 
 
-![image](https://github.com/zeynnep/zeynnep/assets/125817782/3e742bf9-e435-472c-a0db-97438f445f16)
+                  ![image](https://github.com/zeynnep/zeynnep/assets/125817782/3e742bf9-e435-472c-a0db-97438f445f16)
 
 
 
