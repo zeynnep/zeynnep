@@ -2,11 +2,11 @@
 
 
 
-![image](https://github.com/zeynnep/zeynnep/assets/125817782/b1a70bc0-0f57-4df5-abf0-71dab744b513)
 
 
 
- ![image](https://github.com/zeynnep/zeynnep/assets/125817782/3e742bf9-e435-472c-a0db-97438f445f16)
+
+
 
 
 
