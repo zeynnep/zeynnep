@@ -2,6 +2,7 @@
 
 
 
+![image](https://github.com/zeynnep/zeynnep/assets/125817782/b1a70bc0-0f57-4df5-abf0-71dab744b513)
 
 
 
