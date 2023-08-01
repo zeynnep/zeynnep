@@ -1,6 +1,5 @@
 ### Hi there 👋
-`
-<!DOCTYPE html>
+`<!DOCTYPE html>
 <html>
     <head>
         <style>
@@ -61,7 +60,7 @@
             DEVELOPER
         </div>
     </body>
-</html>`
+</html> `
 
 ![image](https://github.com/zeynnep/zeynnep/assets/125817782/0d35004d-648e-49d9-9f76-84f8084349cf)
 
