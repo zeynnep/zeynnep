@@ -3,8 +3,6 @@
 I am training on web software and data analysis languages.
 
 
-![image](https://github.com/zeynnep/zeynnep/assets/125817782/0d35004d-648e-49d9-9f76-84f8084349cf)
-
 
 
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/127399545/244793791-2e47c1e6-b17b-42a9-b856-11f6edcd485d.gif">
