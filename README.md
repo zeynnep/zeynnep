@@ -1,6 +1,7 @@
 ### Hi there 👋
 + My name is zeynep. I am a student of statistics and computer science.
-+ I am training on web software and data analysis languages. +  <img style="display: block;-webkit-user-select: none;margin: auto;background-
++ I am training on web software and data analysis languages.
+ +  <img style="display: block;-webkit-user-select: none;margin: auto;background-
   color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/127399545/244793791-2e47c1e6-b17b-42a9-b856-11f6edcd485d.gif">
 
 
