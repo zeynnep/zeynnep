@@ -1,11 +1,11 @@
 ### Hi there 👋
-+ My name is zeynep. I am a student of statistics and computer science.
++ My name is zeynep. I am a student of statistics and computer science. <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/127399545/244793791-2e47c1e6-b17b-42a9-b856-11f6edcd485d.gif">
 I am training on web software and data analysis languages.
 
 
 
 
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/127399545/244793791-2e47c1e6-b17b-42a9-b856-11f6edcd485d.gif">
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeynep-atik-6454a721b/) 
