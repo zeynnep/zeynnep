@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 + My name is zeynep. I am a student of statistics and computer science.
 + I am training on web software and data analysis languages.
  +  <img style="display: block;-webkit-user-select: none;margin: auto;background-
