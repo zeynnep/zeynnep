@@ -3,6 +3,11 @@
 + I am training on web software and data analysis languages.
  +  <img style="display: block;-webkit-user-select: none;margin: auto;background-
   color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/127399545/244793791-2e47c1e6-b17b-42a9-b856-11f6edcd485d.gif">
+  ---
+   <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=zeynnep&label=Profile%20Views&color=0&icon=2&pretty=false" />
+</a>
+---
 
 
 
