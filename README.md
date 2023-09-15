@@ -1,6 +1,7 @@
 # 💫 About Me:
 
-+ My name is zeynep. I am a student of statistics and computer science.<br> <br><br><br>+ I am training on web software and data analysis languages.<br>
++ My name is zeynep. I am a student of statistics and computer science.<br> <br>
++ I am training on web software and data analysis languages.<br>
 
 
 # 💻 Tech Stack:
