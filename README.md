@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-+ Hello My name is Zeynep.I am developing on Python and its libraries.<br> <br>
++Hello, I am Zeynep. I work in data analysis, image processing and machine learning with Python.<br> <br>
 
 
 
