@@ -36,9 +36,10 @@ I work in data science, database administration, Power BI, and machine learning.
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeynnep&show_icons=true&theme=chartreuse-dark&hide_border=false" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynnep&layout=compact&theme=chartreuse-dark&hide_border=false" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zeynnep&show_icons=true&hide_border=false&title_color=ff69b4&icon_color=00bfff&text_color=ffffff&bg_color=0d1117" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynnep&layout=compact&hide_border=false&title_color=ff69b4&text_color=ffffff&bg_color=0d1117" width="49%" />
 </p>
+
 
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zeynnep&bg_color=0d1117&color=00e7ff&line=00e7ff&point=ffffff&area=true&hide_border=true)](https://github.com/zeynnep)
