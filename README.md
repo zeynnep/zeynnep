@@ -24,12 +24,21 @@ I work in data science, database administration, Power BI, and machine learning.
 ![](https://github-readme-stats.vercel.app/api?username=zeynnep&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zeynnep&bg_color=0d1117&color=00e7ff&line=00e7ff&point=ffffff&area=true&hide_border=true)](https://github.com/zeynnep)
+
+## 🧠 Veri Bilimi Alanlarım
+
 <p align="center">
-  <img src="https://img.shields.io/badge/NLP-LLM-blue?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Visualization-PowerBI%20%7C%20Plotly-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-scikit--learn-orange?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-PostgreSQL%20%7C%20KNIME-green?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Competitions-Kaggle%20%7C%20Teknofest-9cf?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/KNIME-FEDC00?style=for-the-badge&logo=knime&logoColor=black" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
 ---
