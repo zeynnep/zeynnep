@@ -6,9 +6,9 @@ I work in data science, database administration, Power BI, and machine learning.
 |                              | Skills & Tools                                                                 |
 |------------------------------|------------------------------------------------------------------------------------|
 | 🔍 Data Analysis             | Python, R, Pandas, NumPy, Matplotlib, Seaborn, Plotly                             |
-| 🧠 Machine Learning          | scikit-learn, KNIME, model değerlendirme, hiperparametre optimizasyonu            |
-| 🗣️ NLP                       | LLM, RAG, JSON veri yapısı, ChromaDB, Türkçe metin işleme                         |
-| 🛢️ Database & SQL             | PostgreSQL, JSON veri çekme, KNIME ile ETL süreçleri                             |
+| 🧠 Machine Learning          | scikit-learn, KNIME, model evaluation, hyperparameter optimization                |
+| 🗣️ NLP                       | LLM, RAG, JSON data structure, ChromaDB, Turkish text processing                  |
+| 🛢️ Database & SQL             | PostgreSQL, JSON data extraction, ETL processes with KNIME                             |
 | 📊 Data Visualization        | Power BI, Streamlit, Matplotlib, Plotly, Tableau (basic)                          |
 
 ---
