@@ -14,9 +14,6 @@ I work in data science, database administration, Power BI, and machine learning.
 
 ---
 
-## 📈 GitHub Aktivite Grafiğim
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zeynnep&theme=react-dark)
 
 
 ## 🌐 Socials:
@@ -27,7 +24,6 @@ I work in data science, database administration, Power BI, and machine learning.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=zeynnep&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=zeynnep&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zeynnep&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zeynnep&theme=react-dark)
 
 ---
