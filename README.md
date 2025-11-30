@@ -1,52 +1,100 @@
-# 💫 About Me:
-I work in data science, database administration, Power BI, and machine learning.
+<!-- Kurumsal GitHub Profil README -->
 
-# 📌 
-
-|                              | Skills & Tools                                                                 |
-|------------------------------|------------------------------------------------------------------------------------|
-| 🔍 Data Analysis             | Python, R, Pandas, NumPy, Matplotlib, Seaborn, Plotly                             |
-| 🧠 Machine Learning          | scikit-learn, KNIME, model evaluation, hyperparameter optimization                |
-| 🗣️ NLP                       | LLM, RAG, JSON data structure, ChromaDB, Turkish text processing                  |
-| 🛢️ Database & SQL             | PostgreSQL, JSON data extraction, ETL processes with KNIME                             |
-| 📊 Data Visualization        | Power BI, Streamlit, Matplotlib, Plotly, Tableau (basic)                          |
+<h1 align="center"><strong>Zeynep Atik</strong></h1>
+<h3 align="center">Data Science • Machine Learning • NLP • Data Engineering</h3>
 
 ---
 
 
+I am a Data Science and Machine Learning practitioner with strong analytical, statistical, and technical foundations.  
+My work focuses on:
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeynep-atik-) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@zeynepatik2003) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zeynepatik2003@gmail.com) 
+- Data analysis and preprocessing  
+- Machine learning model development  
+- ETL processes and database design  
+- NLP and LLM-powered applications  
+- Data visualization and reporting  
 
-# 💻 Tech Stack:
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-4B0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/KNIME-FEDC00?style=for-the-badge&logo=knime&logoColor=black" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
-
-# 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zeynnep&show_icons=true&hide_border=false&title_color=ff69b4&icon_color=00bfff&text_color=ffffff&bg_color=0d1117" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeynnep&layout=compact&hide_border=false&title_color=ff69b4&text_color=ffffff&bg_color=0d1117" width="49%" />
-</p>
-
-
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zeynnep&bg_color=0d1117&color=00e7ff&line=00e7ff&point=ffffff&area=true&hide_border=true)](https://github.com/zeynnep)
-
-
+I have hands-on experience in Python, SQL, and KNIME, and I follow industry-standard methodologies such as **CRISP-DM** in my end-to-end project workflows.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zeynnep&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔹 Technical Skills
+
+### **Programming**
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+- R (basic)
+- Bash & Git
+
+### **Machine Learning**
+- Classification, Regression, Clustering, Anomaly Detection
+- Feature engineering, hyperparameter tuning
+- Model validation & performance metrics
+
+### **Database & ETL**
+- SQLite, PostgreSQL  
+- ETL workflows with Python  
+- Data extraction, cleaning, transformation
+
+### **NLP & LLMs**
+- RAG architectures  
+- ChromaDB  
+- Prompt engineering  
+- Turkish text processing
+
+### **Visualization & Reporting**
+- Power BI  
+- KNIME Analytics  
+- Streamlit  
+- Matplotlib & Seaborn  
+
+---
+
+## 🔹 Highlighted Projects
+
+### 🟦 **Lotus AI Internship Projects**
+📌 *End-to-end ML workflows, ETL pipelines, data visualization, KNIME workflows*  
+➡️ https://github.com/zeynnep/lotus-ai-staj-projeleri
+
+### 🟩 **ETL100 – Data Engineering & SQL**
+📌 *Python ETL pipeline, SQLite database, 100+ SQL queries*  
+➡️ Included in the internship repository under `02_ETL100`
+
+### 🟧 **5ML – Machine Learning Domains**
+📌 *Classification, Regression, Clustering, Association Rules, Anomaly Detection*  
+➡️ Organized under `03_5ML`
+
+---
+
+## 🔹 Education & Certifications
+
+- **Google AI & Data Science Academy (2024–2025)**
+- Applied Machine Learning – Coursera  
+- SQL for Data Analysis – HackerRank  
+- Python for Data Science – Kaggle  
+
+---
+
+## 🔹 Tools & Technologies
+
+**Languages:** Python, SQL  
+**Data Tools:** Power BI, KNIME, Streamlit  
+**Databases:** SQLite, PostgreSQL  
+**ML:** Scikit-learn, mlxtend  
+**NLP:** LLMs, RAG, ChromaDB  
+**Version Control:** Git & GitHub  
+
+---
+
+## 🔹 Contact & Profiles
+
+📧 **Email:** zeynnepatikk@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/zeynep-atik-  
+📰 **Medium:** https://medium.com/@zeynnep  
+
+---
+
+<p align="center">
+  <em>Thank you for visiting my profile.</em>
+</p>
+
