@@ -6,7 +6,7 @@
 ---
 
 
-I am a Data Science and Machine Learning practitioner with strong analytical, statistical, and technical foundations.  
+I am someone who improves myself in the fields of data science, machine learning, NLP and data engineering. 
 My work focuses on:
 
 - Data analysis and preprocessing  
