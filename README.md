@@ -48,41 +48,7 @@ I have hands-on experience in Python, SQL, and KNIME, and I follow industry-stan
 - Streamlit  
 - Matplotlib & Seaborn  
 
----
 
-## 🔹 Highlighted Projects
-
-### 🟦 **Lotus AI Internship Projects**
-📌 *End-to-end ML workflows, ETL pipelines, data visualization, KNIME workflows*  
-➡️ https://github.com/zeynnep/lotus-ai-staj-projeleri
-
-### 🟩 **ETL100 – Data Engineering & SQL**
-📌 *Python ETL pipeline, SQLite database, 100+ SQL queries*  
-➡️ Included in the internship repository under `02_ETL100`
-
-### 🟧 **5ML – Machine Learning Domains**
-📌 *Classification, Regression, Clustering, Association Rules, Anomaly Detection*  
-➡️ Organized under `03_5ML`
-
----
-
-## 🔹 Education & Certifications
-
-- **Google AI & Data Science Academy (2024–2025)**
-- Applied Machine Learning – Coursera  
-- SQL for Data Analysis – HackerRank  
-- Python for Data Science – Kaggle  
-
----
-
-## 🔹 Tools & Technologies
-
-**Languages:** Python, SQL  
-**Data Tools:** Power BI, KNIME, Streamlit  
-**Databases:** SQLite, PostgreSQL  
-**ML:** Scikit-learn, mlxtend  
-**NLP:** LLMs, RAG, ChromaDB  
-**Version Control:** Git & GitHub  
 
 ---
 
